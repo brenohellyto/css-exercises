@@ -1,0 +1,18 @@
+.impar {
+    background-color: rgb(250, 15, 69);
+    font-family: "Verdana", "Dejavu Sans", "sans-serif";
+}
+#dois {
+    color: #0000ff;
+    font-size:36px;
+}
+
+.excecao1 {
+    font-size: 24px;
+}
+
+#quatro {
+    background-color: #67f59e;
+    font-size: 24px;
+    font-weight: bold;
+}
