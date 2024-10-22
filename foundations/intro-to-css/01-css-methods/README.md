@@ -1,24 +1,27 @@
-# Methods for Adding CSS
-In this exercise, you're going to practice adding CSS to an HTML file using all three methods: external CSS, internal CSS, and inline CSS. You should only be using type selectors for this exercise when adding styles via the external and internal methods. You should also use keywords for colors (e.g. "blue") instead of using RGB or HEX values.
+Métodos para Adicionar CSS
+Neste exercício, você irá praticar a adição de CSS a um arquivo HTML usando os três métodos: CSS externo, CSS interno e CSS inline. Você deve usar apenas seletores de tipo para este exercício ao adicionar estilos via métodos externo e interno. Você também deve usar palavras-chave para cores (por exemplo, "azul") em vez de usar valores RGB ou HEX.
 
-There are three elements for you to add styles to, each of which uses a different method of adding CSS to it, as noted in the outcome image below. All other exercises in this section will have a CSS file provided and linked for you, but for this exercise you will have to create the file and link it in the HTML file yourself. This is all about practicing using these different methods and getting the syntax right.
+Existem três elementos para os quais você deve adicionar estilos, cada um dos quais usa um método diferente de adicionar CSS, conforme indicado na imagem de resultado abaixo. Todos os outros exercícios nesta seção terão um arquivo CSS fornecido e vinculado para você, mas neste exercício, você terá que criar o arquivo e vinculá-lo no arquivo HTML por conta própria. Este exercício é tudo sobre praticar o uso desses diferentes métodos e acertar a sintaxe.
 
-> ## Quick tip:
-> Do not worry about details in these exercises that are not specifically mentioned in the exercise or self check section. Because the desired outcomes are screenshots, your browser may show a different font, the colors may appear different on your machine, or the spacing between elements may look different. Only concern yourself with the specific items you are supposed to be learning for each exercise.
+Dica Rápida:
+Não se preocupe com detalhes neste exercício que não são especificamente mencionados na seção de exercício ou autoavaliação. Como os resultados desejados são capturas de tela, seu navegador pode mostrar uma fonte diferente, as cores podem aparecer diferentes na sua máquina, ou o espaçamento entre elementos pode parecer diferente. Preocupe-se apenas com os itens específicos que você deve estar aprendendo para cada exercício.
 
-The properties you need to add to each element are:
+As propriedades que você precisa adicionar a cada elemento são:
 
-* `div`: a red background, white text, a font size of 32px, center aligned, and bold
-* `p`: a green background, white text, and a font size of 18px
-* `button`: an orange background and a font size of 18px
-
-## Desired Outcome
-![desired outcome](./desired-outcome.png)
+div: um fundo vermelho, texto branco, um tamanho de fonte de 32px, centralizado e em negrito
+p: um fundo verde, texto branco e um tamanho de fonte de 18px
+button: um fundo laranja e um tamanho de fonte de 18px
+Resultado Desejado
 
 
-### Self Check
-- Did you use all three methods of adding CSS to an HTML file?
-- Did you properly link the external CSS file in the HTML file?
-- Does the `div` element have CSS added via the external method?
-- Does the `p` element have CSS added via the internal method?
-- Does the `button` element have CSS added via the inline method?
+Autoavaliação
+Você usou os três métodos de adicionar CSS a um arquivo HTML?
+Você vinculou corretamente o arquivo CSS externo no arquivo HTML?
+O elemento div tem CSS adicionado pelo método externo?
+O elemento p tem CSS adicionado pelo método interno?
+O elemento button tem CSS adicionado pelo método inline?
+
+
+
+
+
