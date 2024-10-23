@@ -1,18 +1,21 @@
-# Descendant Combinator
-Understanding how combinators work can become a lot easier when you start playing around with them and see what exactly is affected by them versus what isn't.
+Combinador Descendente
+Entender como os combinadores funcionam pode se tornar muito mais fácil quando você começa a praticar e ver o que exatamente é afetado por eles e o que não é.
 
-The goal of this exercise is to apply styles to elements that are descendants of another element, while leaving elements that *aren't* descendants of that element unstyled.
+O objetivo deste exercício é aplicar estilos a elementos que são descendentes de outro elemento, deixando os elementos que não são descendentes desse elemento sem estilo.
 
-You can use either type or class selectors for this exercise; use whichever you may feel you want to practice with more. The HTML file is set up (so no need to edit anything in it) such that any combination of selectors will work, so if you're feeling adventurous you can even try combining a type *and* class selector for the descendant combinator.
+Você pode usar seletores de tipo ou de classe para este exercício; use o que você sentir que precisa praticar mais. O arquivo HTML já está configurado (então não é necessário editar nada nele), de forma que qualquer combinação de seletores funcionará, então, se você estiver se sentindo aventureiro, pode até tentar combinar um seletor de tipo e de classe para o combinador descendente.
 
-The properties you need to add are:
+As propriedades que você precisa adicionar são:
 
-* Only the `p` elements that are descendants of the `div` element should have a yellow background, red text, a font size of 20px, and center aligned.
-
-## Desired Outcome
-![desired outcome](./desired-outcome.png)
+Somente os elementos p que são descendentes do elemento div devem ter fundo amarelo, texto vermelho, tamanho de fonte de 20px e alinhamento central.
+Resultado Desejado
 
 
-### Self Check
-- Do the elements that contain the text "This should be styled" have the correct styles applied?
-- Do the elements that contain the text "This should be unstyled" have no styles applied?
+Verificação
+Os elementos que contêm o texto "Isso deve ser estilizado" têm os estilos corretos aplicados?
+Os elementos que contêm o texto "Isso não deve ter estilo" estão sem estilo aplicado?
+
+
+
+
+
