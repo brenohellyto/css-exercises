@@ -1,12 +1,14 @@
 # Grouping Selectors
 
-Let's build a little off the previous exercise. Here, you're going to give two elements each a unique class name, then add rules for styles that both elements share as well as their own unique styles. Make sure you take a good look at the outcome image below to see exactly what is unique about each element, and what both elements have in common.
+Vamos continuar a partir do exercício anterior. Aqui, você vai atribuir a dois elementos um nome de classe único para cada um, depois adicionar regras de estilos que ambos compartilham, além de seus próprios estilos únicos. Certifique-se de observar bem a imagem do resultado abaixo para ver exatamente o que é único em cada elemento e o que ambos têm em comum.
 
-This will help you further practice adding classes and using class selectors, so be sure you add the class attribute in the HTML file. For the remainder of these exercises, the format of any colors is entirely up to you; we trust you'll practice using the different values! The properties you need to add to each element are:
 
-- **The first element**: a black background and white text
-- **The second element**: a yellow background
-- **Both elements**: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback
+Isso ajudará você a praticar a adição de classes e o uso de seletores de classe, então tenha certeza de adicionar o atributo de classe no arquivo HTML. Para o restante desses exercícios, o formato das cores é totalmente com você; confiamos que você praticará o uso de diferentes valores! As propriedades que você precisa adicionar a cada elemento são:
+
+
+- **The first element**: fundo preto e texto branco
+- **The second element**: fundo amarelo
+- **Ambos elementos**: tamanho da fonte de 28px e uma lista de fontes contendo Helvetica e Times New Roman, com sans-serif como opção de fallback.
 
 ## Desired Outcome
 
@@ -14,6 +16,6 @@ This will help you further practice adding classes and using class selectors, so
 
 ### Self Check
 
-- Does each element have a unique class name?
-- Did you use the grouping selector for styles that both elements share?
-- Did you make separate rules for the styles unique to each element?
+Cada elemento tem um nome de classe único?
+Você usou o selet?
+Você fez regras separadas para os estilos únicos de cada elemento?
