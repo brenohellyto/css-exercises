@@ -1,21 +1,21 @@
 # Chaining Selectors
 
-Credits for the images in this exercise go to [Katho Mutodo](https://linktr.ee/photobykatho_) and [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels).
+Créditos para as imagens deste exercício vão para Katho Mutodo e Andrea Piacquadio.
 
+Neste exercício, fornecemos um arquivo HTML parcialmente preenchido que você deverá configurar. O objetivo é focar em entender como encadear diferentes seletores, em vez de apenas adicionar atributos. Além disso, você terá a chance de revisar suas imagens no HTML.
 
-With this exercise, we've provided you with a partially completed HTML file which you'll configure. The purpose of this exercise is to focus on understanding how to chain different selectors, rather than solely adding attributes. Additionally, you'll have the chance to review your HTML images.
+Temos duas imagens para você estilizar, cada uma com dois nomes de classe, onde um dos nomes de classe é compartilhado. O objetivo aqui é encadear os seletores para ambos os elementos, para que cada um tenha um estilo único aplicado, apesar de usarem um seletor de classe compartilhado. Por exemplo, você quer que um elemento que tenha as classes X e Y tenha um conjunto de estilos, enquanto um elemento com as classes X e Z tenha um conjunto de estilos completamente diferente. Incluímos as imagens originais também, para que você possa ver como os estilos que você irá adicionar ficam em comparação; então, não adicione estilos a elas.
 
-We have two images for you to style, each with two class names, where one of the class names is shared. The goal here is to chain the selectors for both elements, so that each have a unique style applied, despite using a shared class selector. For example, you want an element that has both X and Y to have one set of styles, while an element with X and Z has a completely different set of styles. We included the original images as well, so that you can see how the styles you will be adding look in comparison, so do not add any styles to them.
+As propriedades que você precisa adicionar a cada elemento são:
 
-The properties you need to add to each element are:
+* Faça com que o elemento que tenha as classes avatar e proportioned tenha 300 pixels de largura, e depois defina uma altura que mantenha as proporções originais quadradas (não use um valor fixo em pixels para a altura!).
 
-* Make the element with both the `avatar` and `proportioned` classes 300 pixels wide, then give it a height so that it retains its original square proportions (don't hardcode in a pixel value for the height!).
-* Make the element with both the `avatar` and `distorted` classes 200 pixels wide, then make its height twice as big as its width (here you should hardcode in a pixel value).
+* Faça com que o elemento que tenha as classes avatar e distorted tenha 200 pixels de largura, e depois defina uma altura que seja o dobro da largura (aqui você deve usar um valor fixo em pixels).
 
 ## Desired Outcome
 ![desired outcome](./desired-outcome.png)
 
 ### Self Check
-- Did you properly chain class selectors for each rule?
-- Does the `proportioned` image retain its original square proportions?
-- Does the `distorted` image end up looking squished and, well, distorted?
+Você encadeou corretamente os seletores de classe para cada regra?
+A imagem com a classe proportioned mantém suas proporções quadradas originais?
+A imagem com a classe distorted fica com aparência achatada e distorcida?
