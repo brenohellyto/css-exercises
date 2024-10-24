@@ -1,14 +1,13 @@
-# Margin and Padding practice
+Prática de Margin e Padding
+Para este primeiro exercício, edite apenas o arquivo style.css para que as divs fiquem como na imagem abaixo. Edite o CSS somente onde indicado no arquivo. Você deverá apenas alterar os valores de margin e padding para este exercício. Não adicione nem remova propriedades no CSS, nem altere o HTML.
 
-For this first exercise, simply edit the `style.css` file so that the divs look like the image below. Only edit the CSS where instructed in the file.  You should only have to change the values of the margin and padding for this exercise. You should not have to add or remove properties in the CSS, or touch the HTML.
 
-![outcome](./desired-outcome.png)
 
-### Self-check 
-Use this section to check your work. On _these_ projects, your goal isn't to attain 100% pixel perfection, but to use the tools you've learned to get relatively close to the desired output.
+Auto-verificação
+Use esta seção para verificar o seu trabalho. Nestes projetos, o seu objetivo não é atingir a perfeição pixel a pixel, mas usar as ferramentas que aprendeu para chegar relativamente perto do resultado desejado.
 
-- Div One and Div Three have 32px between their text and border.
-- Div One has 12px between it and any other element on the page.
-- There is a 48px gap between Div Two and Div Three.
-- Div Three is aligned to the right.
-- Div Three's alignment is achieved using `margin` (and not float, flexbox, etc.).
+A Div Um e a Div Três têm 32px entre seu texto e a borda.
+A Div Um tem 12px de distância em relação a qualquer outro elemento da página.
+Há um espaço de 48px entre a Div Dois e a Div Três.
+A Div Três está alinhada à direita.
+O alinhamento da Div Três é obtido usando margin (e não float, flexbox, etc.).
